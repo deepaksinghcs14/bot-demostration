@@ -17,7 +17,7 @@
     },
     "dependencies": {
         "@google-cloud/dialogflow": "^2.0.0",
-        "axios": "^0.19.2",
+        "axios": "^0.21.1",
         "botbuilder": "~4.9.1",
         "dotenv": "^8.2.0",
         "express": "^4.17.1",
